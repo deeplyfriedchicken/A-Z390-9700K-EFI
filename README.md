@@ -16,7 +16,7 @@ That being said, be sure to update `PlatformInfo` before loading OpenCore with t
 
 ## Parts
 ---
-* [ASUS ROG Strix Z390-E Gaming Motherboard](https://www.asus.com/us/Motherboards/ROG-STRIX-Z390-E-GAMING/)
+* [ASUS ROG Strix Z390-E Gaming Motherboard](https://www.asus.com/us/Motherboards/ROG-STRIX-Z390-E-GAMING/) (BIOS 1602)
 * [Intel Core i9-9900k Processor](https://www.intel.com/content/www/us/en/products/processors/core/i9-processors/i9-9900k.html)
 * [Sapphire PULSE Redon RX 570 4GB](https://www.newegg.com/sapphire-radeon-rx-570-100412p4gocl/p/n82e16814202283)
 * [Samsung 970 EVO Plus NVMe M.2. SSD 500GB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-500gb-mz-v7s500b-am/)
