@@ -73,3 +73,4 @@ You need to activate the following to make certain things work (i.e. virtualizat
 * System Agent (SA) Configuration -> Graphics Configuration -> DVMT Pre-Allocated -> `128M`
 * Onboard Devices Configuration -> Serial Port Configuration -> Serial Port -> `Off`
 * Fast Boot -> `Disabled`
+* Onboard WiFi and Bluetooth -> `Disabled`
